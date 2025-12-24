@@ -1,0 +1,7 @@
+{
+  "name": "Live Sales Copilot",
+  "description": "Real-time AI sales assistant that listens to calls, detects objections, and provides live coaching suggestions using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
